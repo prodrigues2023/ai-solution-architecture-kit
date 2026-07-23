@@ -63,6 +63,7 @@ producing it:
 
 - [rag-reference-architecture](https://github.com/prodrigues2023/rag-reference-architecture) — a reference architecture documented the way the [solution design template](./templates/solution-design-document.md) asks for
 - [rag-evaluation-toolkit](https://github.com/prodrigues2023/rag-evaluation-toolkit) — the evaluation evidence that [model certification](./governance/model-certification.md) requires at Tier 2 and above
+- [mcp-servers-collection](https://github.com/prodrigues2023/mcp-servers-collection) — designing the tool surfaces that [excessive agency](./templates/threat-model-ai.md) is assessed against
 - [event-driven-dotnet-reference](https://github.com/prodrigues2023/event-driven-dotnet-reference) — reliable messaging between services: outbox, idempotent consumers, sagas
 
 ## Contributing
