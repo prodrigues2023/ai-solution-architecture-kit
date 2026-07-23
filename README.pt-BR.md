@@ -60,6 +60,15 @@ Veja [ROADMAP.md](./ROADMAP.md). A Fase 1 estabelece os artefatos centrais; as f
 seguintes trazem exemplos preenchidos, um playbook de avaliação e um modelo de custo e
 operação.
 
+## Relacionados
+
+O kit especifica quais evidências uma revisão exige. Estes repositórios são exemplos de como
+produzi-las:
+
+- [rag-reference-architecture](https://github.com/prodrigues2023/rag-reference-architecture) — uma arquitetura de referência documentada do jeito que o [template de design](./templates/solution-design-document.md) pede
+- [rag-evaluation-toolkit](https://github.com/prodrigues2023/rag-evaluation-toolkit) — a evidência de avaliação que a [certificação de modelos](./governance/model-certification.md) exige a partir do Tier 2
+- [event-driven-dotnet-reference](https://github.com/prodrigues2023/event-driven-dotnet-reference) — mensageria confiável entre serviços: outbox, consumidores idempotentes, sagas
+
 ## Contribuindo
 
 Discordância é a contribuição mais útil. Se um item de checklist não sobreviver ao contato

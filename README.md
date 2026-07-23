@@ -56,6 +56,15 @@ uses.
 See [ROADMAP.md](./ROADMAP.md). Phase 1 establishes the core artefacts; later phases add
 worked examples, an evaluation playbook, and a cost-governance model.
 
+## Related
+
+The kit specifies what evidence a review requires. These repositories are worked examples of
+producing it:
+
+- [rag-reference-architecture](https://github.com/prodrigues2023/rag-reference-architecture) — a reference architecture documented the way the [solution design template](./templates/solution-design-document.md) asks for
+- [rag-evaluation-toolkit](https://github.com/prodrigues2023/rag-evaluation-toolkit) — the evaluation evidence that [model certification](./governance/model-certification.md) requires at Tier 2 and above
+- [event-driven-dotnet-reference](https://github.com/prodrigues2023/event-driven-dotnet-reference) — reliable messaging between services: outbox, idempotent consumers, sagas
+
 ## Contributing
 
 Disagreement is the most useful contribution. If a checklist item does not survive contact
