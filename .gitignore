@@ -1,0 +1,17 @@
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local drafts — keep work-in-progress out of the public repo
+drafts/
+*.local.md
+
+# Exported diagrams (Mermaid source is the version of record)
+*.png
+*.svg
+!docs/assets/*.png
