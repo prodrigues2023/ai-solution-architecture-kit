@@ -61,6 +61,7 @@ worked examples, an evaluation playbook, and a cost-governance model.
 The kit specifies what evidence a review requires. These repositories are worked examples of
 producing it:
 
+- [ai-guardrails-toolkit](https://github.com/prodrigues2023/ai-guardrails-toolkit) — the engineering that implements the controls the [guardrail baseline](./governance/guardrails-baseline.md) mandates
 - [enterprise-ai-framework](https://github.com/prodrigues2023/enterprise-ai-framework) — the framework that gives the [guardrail baseline](./governance/guardrails-baseline.md) a single place to be enforced across applications
 - [rag-reference-architecture](https://github.com/prodrigues2023/rag-reference-architecture) — a reference architecture documented the way the [solution design template](./templates/solution-design-document.md) asks for
 - [rag-evaluation-toolkit](https://github.com/prodrigues2023/rag-evaluation-toolkit) — the evaluation evidence that [model certification](./governance/model-certification.md) requires at Tier 2 and above

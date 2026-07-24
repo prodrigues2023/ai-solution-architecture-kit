@@ -65,6 +65,7 @@ operação.
 O kit especifica quais evidências uma revisão exige. Estes repositórios são exemplos de como
 produzi-las:
 
+- [ai-guardrails-toolkit](https://github.com/prodrigues2023/ai-guardrails-toolkit) — a engenharia que implementa os controles que o [baseline de guardrails](./governance/guardrails-baseline.md) exige
 - [enterprise-ai-framework](https://github.com/prodrigues2023/enterprise-ai-framework) — o framework que dá ao [baseline de guardrails](./governance/guardrails-baseline.md) um único lugar para ser aplicado entre aplicações
 - [rag-reference-architecture](https://github.com/prodrigues2023/rag-reference-architecture) — uma arquitetura de referência documentada do jeito que o [template de design](./templates/solution-design-document.md) pede
 - [rag-evaluation-toolkit](https://github.com/prodrigues2023/rag-evaluation-toolkit) — a evidência de avaliação que a [certificação de modelos](./governance/model-certification.md) exige a partir do Tier 2
